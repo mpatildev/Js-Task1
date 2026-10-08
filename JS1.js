@@ -1,4 +1,6 @@
- //-----------------------Var----------------------------------
+//Variables, Priniting Statements and Console Methods
+
+//-----------------------Var----------------------------------
 //1. Create a var variable called name and initialize it with your name. Print it.
 var name = "Maheshwari";
 console.log(name);      //Maheshwari
